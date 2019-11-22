@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto&display=swap');
+
+body {
+  font-family: 'Roboto';
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Raleway';
+}
+
+h2 {
+  font-weight: 900;
+  font-size: 20pt;
+}
+
